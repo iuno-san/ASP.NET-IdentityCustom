@@ -2,8 +2,8 @@
 Below I present a more detailed instruction that will help users customize the login and registration form on their ASP.NET MVC website using the Identity library.
 
 <div>
-<img width="450" height="300" src="https://raw.githubusercontent.com/iuno-san/ASP.NET-IdentityCustom/main/img/Step_0.png" />
-<img width="450" height="300" src="https://raw.githubusercontent.com/iuno-san/ASP.NET-IdentityCustom/main/img/Step_10.png" />
+<img width="420" height="300" src="https://raw.githubusercontent.com/iuno-san/ASP.NET-IdentityCustom/main/img/Step_0.png" />
+<img width="420" height="300" src="https://raw.githubusercontent.com/iuno-san/ASP.NET-IdentityCustom/main/img/Step_10.png" />
 </div>
 <br><br>
 
