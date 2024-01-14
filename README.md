@@ -27,7 +27,7 @@ Below I present a more detailed instruction that will help users customize the l
 
 #### 9. Now you can access the "Login.cshtml" file located in the "Areas/Identity/Pages/Account" folder and change it according to your preferences. <br><br> <img width="450" height="300" src="https://github.com/iuno-san/ASP.NET-IdentityCustom/blob/main/img/Step_6.png" /> <br><br>
 
-#### 10. To display the login and registration sections on your page, go to the "_Layout.cshtml" file in the "Views/Shared" folder. Add the following code to import the partial content <code><_LoginPartial): &lt;partial name=&quot;_LoginPartial&quot;/&gt;</code> <br><br> <img width="450" height="300" src="https://github.com/iuno-san/ASP.NET-IdentityCustom/blob/main/img/Step_7.png" /> <br><br>
+#### 10. To display the login and registration sections on your page, go to the "_Layout.cshtml" file in the "Views/Shared" folder. Add the following code to import the partial content <code>&lt;partial name=&quot;_LoginPartial&quot;/&gt;</code> <br><br> <img width="450" height="300" src="https://github.com/iuno-san/ASP.NET-IdentityCustom/blob/main/img/Step_7.png" /> <br><br>
 
 #### 11. In the "Program.cs" file, add the following line of code to enable Razor Pages support: <code>app.MapRazorPages();</code> <br><br> <img width="450" height="300" src="https://github.com/iuno-san/ASP.NET-IdentityCustom/blob/main/img/Step_8.png" /> <br><br>
 <br>
